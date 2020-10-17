@@ -41,16 +41,16 @@ Le langage HTML est un langage de balisage et non de programmation : le code s'�
 
 Les principales balises sont :
 
-- <html></html>
+<html></html>
 → Début et fin du fichier HTML
 
-- <title></title>
+<title></title>
 → Titre affiché dans l’onglet
 
-- <head></head>
+<head></head>
 → En-tête avec les informations utiles
 
-- <body></body>
+<body></body>
 → Début et fin du corps de votre page web.
 
 Ainsi, je vous invite à créer un répertoire (sur votre bureau, par exemple), dans le quel vous allez apprendre à coder. Dans celui-ci, vous pouvez créer un fichier appelé **index.html** et l’ouvrir avec Sublime Text puis, y rentrer le code suivant :
