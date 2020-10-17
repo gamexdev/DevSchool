@@ -1,4 +1,4 @@
-## Cours 1 - Le web
+# Cours 1 - Le web
 Objectifs : - Savoir ce qu’est une page web, comment est-elle générée, quels langages utiliser pour en créer une.
             - Connaître les bases des langages HTML et CSS
             - Être capable de créer un site web statique, avec ce que vous aurez appris durant le cours, avec les langages HTML et CSS.
@@ -13,7 +13,7 @@ Rappelez-vous que ce cours est pour vous, c’est donc vous qui allez le constru
 
 <hr>
 
-### Prérequis :
+<h3 style="color:red;">Prérequis</h3>
 
 Avant de commencer le cours, vous aurez besoin d'un **IDE** (*Integrated Developement Environement*), autrement dit, un éditeur de code. Pour ce cours, nous vous conseillons **__Sublime Text__** , qui est un **IDE** simple d'utilisation, léger, fluide...
 
@@ -27,7 +27,7 @@ Vous aurez également besoin d'activer l'extension des fichiers, dans votre expl
 
 <hr>
 
-### I - Introduction
+<h3 style="color:red;">I - Introduction</h3>
 
 Pour commencer, savez-vous comment est généré une page internet ?
 
@@ -41,7 +41,7 @@ Vous pouvez, si vous le souhaitez, modifier / supprimer / ajouter certains élé
 
 <hr>
 
-### II - Commencement
+<h3 style="color:red;">II - Commencement</h3>
 
 Le langage HTML est un langage de balisage et non de programmation : le code s'écrit entre des marqueurs appelés balises qui indiquent au navigateur comment interpréter ce code. La plupart des balises vont par deux : l'une ouvre un «bloc» l'autre le ferme. Mais certaines sont seules et on les dit «orphelines».
 
