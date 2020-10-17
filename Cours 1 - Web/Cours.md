@@ -11,6 +11,8 @@ Nous allons, au fil du cours, vous donner plusieurs exercices / challenges, afin
 
 Rappelez-vous que ce cours est pour vous, c’est donc vous qui allez le construire. N’hésitez donc pas à poser toutes vos questions / suggérer de nouvelles leçons, afin que nous faisions une leçon dessus.
 
+<hr>
+
 ### Prérequis :
 
 Avant de commencer le cours, vous aurez besoin d'un **IDE** (*Integrated Developement Environement*), autrement dit, un éditeur de code. Pour ce cours, nous vous conseillons **__Sublime Text__** , qui est un **IDE** simple d'utilisation, léger, fluide...
@@ -22,6 +24,8 @@ Vous aurez également besoin d'activer l'extension des fichiers, dans votre expl
 > - En haut, cliquez sur l'onglet "Affichage" puis, cochez la case "Extensions de noms de fichiers".
 
 *Un navigateur internet sera également nécessaire.*
+
+<hr>
 
 ### I - Introduction
 
@@ -35,22 +39,24 @@ Vous pouvez, si vous le souhaitez, modifier / supprimer / ajouter certains élé
 
 **__Attention__** : **Ceci est juste local , c’est à dire que cela n’apparaît uniquement dans votre navigateur, seulement vous pouvez-voir ces modifications. Vous n’êtes pas en train « de hacker » Google. Pour le voir par vous même, vous pouvez recharger la page, les éléments se remettent comme avant votre modification.**
 
+<hr>
+
 ### II - Commencement
 
 Le langage HTML est un langage de balisage et non de programmation : le code s'écrit entre des marqueurs appelés balises qui indiquent au navigateur comment interpréter ce code. La plupart des balises vont par deux : l'une ouvre un «bloc» l'autre le ferme. Mais certaines sont seules et on les dit «orphelines».
 
 Les principales balises sont :
 
-<html></html>
+`<html></html>`
 → Début et fin du fichier HTML
 
-<title></title>
+`<title></title>`
 → Titre affiché dans l’onglet
 
-<head></head>
+`<head></head>`
 → En-tête avec les informations utiles
 
-<body></body>
+`<body></body>`
 → Début et fin du corps de votre page web.
 
 Ainsi, je vous invite à créer un répertoire (sur votre bureau, par exemple), dans le quel vous allez apprendre à coder. Dans celui-ci, vous pouvez créer un fichier appelé **index.html** et l’ouvrir avec Sublime Text puis, y rentrer le code suivant :
