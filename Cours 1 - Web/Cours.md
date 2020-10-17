@@ -37,9 +37,9 @@ Vous pouvez, si vous le souhaitez, modifier / supprimer / ajouter certains élé
 
 ### II - Commencement
 
-    • Le langage **HTML** est un langage de **balisage** et non de programmation : le code s’écrit entre des marqueurs appelés **balises**, qui indiquent au navigateur comment interpréter ce code. La plus part des balises vont par deux. L’une des balises ouvre un « bloc », l’autre, le ferme. Mais, certaines balises sont seules, on les qualifies de balises « orphelines ».
+Le langage HTML est un langage de balisage et non de programmation : le code s'écrit entre des marqueurs appelés balises qui indiquent au navigateur comment interpréter ce code. La plupart des balises vont par deux : l'une ouvre un «bloc» l'autre le ferme. Mais certaines sont seules et on les dit «orphelines».
 
-    • Les principales balises sont :
+Les principales balises sont :
 
 - <html></html>
 → Début et fin du fichier HTML
